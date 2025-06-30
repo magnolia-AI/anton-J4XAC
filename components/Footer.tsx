@@ -10,7 +10,7 @@ export default function Footer() {
         </Link>
         <Link href="#" className="text-foreground hover:text-primary transition-colors">
           <FaGithub size={24} />
-        </Link>
+        </Link> 
         <Link href="#" className="text-foreground hover:text-primary transition-colors">
           <FaDribbble size={24} />
         </Link>
