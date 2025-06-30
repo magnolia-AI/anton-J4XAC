@@ -6,6 +6,7 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				heading: ['Poppins', 'sans-serif'],
+				serif: ['Lora', 'serif'],
 				body: ['Inter', 'sans-serif'],
 				mono: ['JetBrains Mono', 'monospace'],
 			},
@@ -54,3 +55,4 @@ module.exports = {
 	// eslint-disable-next-line @typescript-eslint/no-require-imports
 	plugins: [require("tailwindcss-animate")],
 }
+
